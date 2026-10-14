@@ -46,3 +46,43 @@ Elif Özkan
 **Elif Özkan**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliffozkan) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eliffozkan)
+
+---
+
+## English
+
+Welcome to the **Artificial Intelligence and Machine Learning (AI/ML)** course series organized by Google Developer Groups on Campus (GDGC)!
+
+This repository contains the course materials, code, and mini-project assignments for the first term. The goal is to teach tools used in practice (Python, Pandas, and Scikit-learn) through **hands-on work with real datasets**.
+
+### 📚 Curriculum
+
+The course consists of four main modules:
+
+- 🐍 **[Module 0: Python Fundamentals](./Module_0_Python)**
+  Introduction to Python, lists and dictionaries, loops, and functions.
+- 📈 **[Module 1: Regression Models](./Module_1_Regression)**
+  Introduction to machine learning, linear and logistic regression, loss functions, and building models with Scikit-learn.
+- 🎯 **[Module 2: Evaluation Metrics](./Module_2_Metrics)**
+  Measuring model performance with accuracy, F1 score, and confusion matrices; cross-validation and hyperparameter tuning with GridSearch.
+- 🧹 **[Module 3: Data Preprocessing](./Module_3_Preprocessing)**
+  Preparing data before model training: handling missing values, removing outliers, feature scaling, and encoding. Includes a Spaceship Titanic mini-project.
+
+### 🛠️ Setup and Prerequisites
+
+Install the following libraries to run the course code on your computer:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn jupyter
+```
+
+Alternatively, you can open all notebooks in **[Google Colab](https://colab.research.google.com/)** without installing anything locally.
+
+### 📝 Homework (Mini Projects)
+
+Each module includes a `*_Homework.ipynb` notebook with an **automatic self-check** system. After completing the tasks, run the check cells to receive immediate feedback (✅/❌).
+
+### 👩‍🏫 Instructor
+
+**Elif Özkan**
+[LinkedIn](https://linkedin.com/in/eliffozkan) · [GitHub](https://github.com/eliffozkan)
